@@ -4,7 +4,7 @@
 ; Author: mjbrusso
 ; Contributors: AlessandroFonseca
 ; Licensed under the MIT license (see "license.txt"). 
-;*********************************************************************
+;********************************************************************
 global	exit, exit0, strlen, itoa, atoi, endl, printstr, printint, readstr, readint
 
 %ifidn __OUTPUT_FORMAT__, macho64       
